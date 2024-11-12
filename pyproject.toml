@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "s2ble"
+version = "0.1.0"
+description = "Digital braille encoding format and utilities"
+authors = ["EpicRaisin"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pynput = "^1.7.7"
+pyautogui = "^0.9.54"
+keyboard = "^0.13.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
