@@ -1,9 +1,7 @@
-# ## ----------------------------------------------------------------
-# 00  abcdefghijklmnopqrstuvwxyz
-# 10 0123456789.,?!:;"'@#$%^&*()[]{}<>-_=+|/\
-# 01
-# 11
+# s2ble English (en) 
+# Dots are listed in left to right, top to bottom order. The final row is placed first.
 
+# Block 1: Alphabet and diphthongs
 00:000000 " "
 00:100000 "a"
 00:010000 "e"
